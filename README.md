@@ -37,12 +37,13 @@ The system aims to:
 
 ## 🛠 Technology Stack
 
-- HTML5  
-- CSS3  
-- JavaScript  
-- PHP (or backend used)  
-- MySQL  
-- Responsive Web Design  
+- **Frontend:** HTML, CSS, JavaScript  
+- **UI Framework:** AdminLTE 3  
+- **JavaScript Library:** jQuery  
+- **Asynchronous Communication:** AJAX (jQuery AJAX)  
+- **Backend:** PHP (or actual backend used)  
+- **Database:** MySQL  
+- **Design Approach:** Responsive Web Design (RWD)   
 
 ---
 
