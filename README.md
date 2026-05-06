@@ -75,16 +75,6 @@ It focuses on improving administrative efficiency and record-keeping processes w
 
 ---
 
-## 👨‍💻 Developer
-
-**John Lyric Demegillo**  
-Bachelor of Science in Computer Science / IT-related Program  
-GitHub: https://github.com/jldems  
-LinkedIn: https://www.linkedin.com/in/john-lyric-demegillo-83218523b  
-Email: johnlyricdemegillo@gmail.com  
-
----
-
 ## 📄 License
 
 This project is intended for academic and educational purposes only.
